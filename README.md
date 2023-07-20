@@ -1,6 +1,10 @@
 # MyToken Smart Contract
 
-This is a simple ERC20 token smart contract called `MyToken` that allows minting and burning of tokens. The contract keeps track of token details, balances, and allows the contract owner to mint new tokens and burn existing tokens.
+This is a simple ERC20 token smart contract called `MyToken` that allows minting and burning of tokens. The contract keeps track of token details, and balances, and allows the contract owner to mint new tokens and burn existing tokens.
+
+## Description
+
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has a  function of returning the status of the token used and the token left in an account at a particular  address. This program serves as a simple and straightforward introduction to creating tokens in Solidity programming and can be used as a stepping stone for more complex projects in the future.
 
 ## Token Details
 
